@@ -22,7 +22,7 @@ channels:
 dependencies:
   - cudatoolkit=11.3
   - git
-  - numpy=1.22.3
+  - numpy=1.20
   - pip=20.3
   - python=3.9.12
   - pytorch=1.11.0
