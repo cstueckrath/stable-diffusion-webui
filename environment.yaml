@@ -79,7 +79,7 @@ dependencies:
     - transformers==4.19.2
     - tensorflow==2.10.0
     - tqdm==4.64.0
-    - openvino==2022.1.0
+    - openvino
     - stqdm==0.0.4
     - watchdog==2.1.9
     - wget
